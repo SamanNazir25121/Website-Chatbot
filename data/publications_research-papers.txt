@@ -1,0 +1,135 @@
+Published Research Papers
+Bayesian Optimized Supervised Learning for Short-Term Net Load Forecasting in Distribution Grids with Net-Metering
+https://ieeexplore.ieee.org/abstract/document/10807530
+Multi-objective optimization of battery swapping station to power up mobile and stationary loads
+https://www.sciencedirect.com/science/article/abs/pii/S0306261924014478
+Sustainable energy transition optimization through decentralized hybrid energy systems with various energy storage technologies under multi-criterion indices: A mid-career repowering scenarios
+https://www.sciencedirect.com/science/article/pii/S2352152X24020760
+Graph Convolutional Networks based short-term load forecasting: Leveraging spatial information for improved accuracy
+https://www.sciencedirect.com/science/article/abs/pii/S0378779624001512
+Evaluation of manufacturer's low-temperature lithium-ion battery datasheet specifications
+https://www.sciencedirect.com/science/article/pii/S2352152X24016499
+Thermal Monitoring and Multi-state Estimation of Li-ion Batteries Using a Control-oriented Integrated Electrothermal Framework
+https://ieeexplore.ieee.org/abstract/document/10614072/
+GWO-Tuned Supertwisted Integral Synergetic Control of Buck Converter Feeding Resistive and Constant Power Load in DC Microgrid
+https://ieeexplore.ieee.org/abstract/document/10613955/
+ALO-tuned Supertwisted Synergetic Control of a CPL-fed Boost Converter in DC Microgrid
+https://ieeexplore.ieee.org/abstract/document/10582741/
+Renewable Energy Integration using Supertwisted Integral Backstepping Control of DC Microgrid
+https://ieeexplore.ieee.org/abstract/document/10454232/
+Optimized Energy Management System for Cost-effective Solar and Storage Integrated Fast-Charging Station
+https://ieeexplore.ieee.org/abstract/document/10454210/
+Supertwisted Synergetic Control for DC-DC Power Converter of G2V-V2X Capable Onboard Electric Vehicle Charger
+https://ieeexplore.ieee.org/abstract/document/10472251/
+PseAAC2Vec protein encoding for TCR protein sequence classification
+https://www.sciencedirect.com/science/article/pii/S0010482524000404
+Ssag: Summarization and sparsification of attributed graphs
+https://dl.acm.org/doi/abs/10.1145/3651619
+An Improved Li-Ion Battery Architecture for UPS Applications
+https://ieeexplore.ieee.org/abstract/document/10613951/
+Evaluation of Active Zero Switch PWM for Interleaved Dual Inverter systems
+https://ieeexplore.ieee.org/abstract/document/10613980/
+Performance Evaluation of Vector Control Induction Motor Drive with Reduced Common Mode Voltage Based PWM Schemes
+https://ieeexplore.ieee.org/abstract/document/10614064/
+Intelligent Li-Ion Battery Management System
+https://ieeexplore.ieee.org/abstract/document/10614048/
+A novel smart feature selection strategy of lithium-ion battery degradation modelling for electric vehicles based on modern machine learning algorithms
+https://www.sciencedirect.com/science/article/pii/S2352152X2300974X
+Using Clustering To Reduce Models Required For Medium Term Load Forecasting
+https://ieeexplore.ieee.org/abstract/document/10287074/
+Spatio-Temporal Short Term Load Forecasting Using Graph Neural Networks
+https://ieeexplore.ieee.org/abstract/document/10269401/
+Optimizing Renewable Energy Integration for a Sustainable and Resilient Power Sector: Insight Form LPDM Analysis
+https://ieeexplore.ieee.org/abstract/document/10269371/
+Smart Feature Selection-Based Machine Learning Framework for Calendar Loss Prediction of Li-Ion Electric Vehicle Battery
+https://ieeexplore.ieee.org/abstract/document/10269362/
+Novel Feature Selection Strategy for Cyclic Loss Prediction of Lithium-ion Electric Vehicle Battery
+https://ieeexplore.ieee.org/abstract/document/10253190/
+Performance Evaluation of Low Sampling Rates in Event Detection and Appliance Recognition in Non-Intrusive Load Monitoring System
+https://ieeexplore.ieee.org/abstract/document/10175779/
+Evaluation of single-phase net metering to meet renewable energy targets: a case study from Pakistan
+https://www.sciencedirect.com/science/article/pii/S0301421522005304
+Sequence-Based Nanobody-Antigen Binding Prediction
+https://link.springer.com/chapter/10.1007/978-981-99-7074-2_18
+Spike2CGR: an efficient method for spike sequence classification using chaos game representation
+https://link.springer.com/article/10.1007/s10994-023-06371-4
+Short-Term Load Forecasting Using AMI Data
+https://ieeexplore.ieee.org/abstract/document/10184134/
+Computing Graph Descriptors on Edge Streams
+https://dl.acm.org/doi/abs/10.1145/3591468
+Efficient Approximate Kernel Based Spike Sequence Classification
+https://ieeexplore.ieee.org/abstract/document/9891853/
+Robust Brain Age Estimation via Regression Models and MRI-derived Features
+https://link.springer.com/chapter/10.1007/978-3-031-41774-0_52
+BioSequence2Vec: Efficient Embedding Generation for Biological Sequences
+https://link.springer.com/chapter/10.1007/978-3-031-33377-4_14
+Virus2Vec: Viral Sequence Classification Using Machine Learning
+https://proceedings.mlr.press/v209/ali23a
+An Efficient Deep Learning Model for Brain Tumor Detection with Privacy Preservation
+https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cit2.12254
+CAMP: A Context-Aware Cricket Players Performance Metric
+https://www.tandfonline.com/doi/abs/10.1080/01605682.2023.2237530
+Efficient Classification of SARS-CoV-2 Spike Sequences Using Federated Learning
+https://link.springer.com/chapter/10.1007/978-3-031-63616-5_6
+Efficient Sequence Embedding For SARS-CoV-2 Variants Classification
+https://link.springer.com/chapter/10.1007/978-981-99-7074-2_2
+Optimized Power Dispatch for Smart Building and Electric Vehicles with V2V, V2B and V2G Operations
+https://www.mdpi.com/1996-1073/16/13/4884
+Evaluation of in-service smartphone battery drainage profile for video calling feature in major apps
+https://www.nature.com/articles/s41598-023-38859-3
+Business Model Evaluation for Peer-to-peer Energy Sharing Systems: Insights from Off-grid DC Microgrid Deployment in Pakistan
+https://ieeexplore.ieee.org/abstract/document/10355027/
+Comparative Analysis of Solar Photovoltaic Module Technologies in Diverse Environmental Conditions in Pakistan
+https://ieeexplore.ieee.org/abstract/document/10354714/
+From Waste to Watts: A Self-Sustaining Water Heating System Powered by a Thermoelectric Generator
+https://dl.acm.org/doi/abs/10.1145/3600100.3623743
+Online State of Charge Estimation Framework using Hybrid Equivalent Circuit Model and Neural Network
+https://ieeexplore.ieee.org/abstract/document/10252709/
+Comparative Evaluation of DC-link Capacitor RMS Current Stress for Conventional and Reduced Common Mode Voltage SVPWM based Inverters
+https://ieeexplore.ieee.org/abstract/document/10221179/
+Dc-link ripple reduction for parallel inverter systems by a novel formulation using multiple space vector-based interleaving schemes
+https://www.mdpi.com/2079-9292/12/6/1496
+Estimating Battery State of Health using Machine Learning
+https://ieeexplore.ieee.org/abstract/document/9953596/
+Reduction in Weighted Average Cost of Generation by Utilizing ToU Pricing Models: A Study from Pakistan
+https://ieeexplore.ieee.org/abstract/document/9922789/
+Optimization of the battery swapping station to power up mobile and stationary loads
+https://dl.acm.org/doi/abs/10.1145/3538637.3538753
+Machine learning in state of health and remaining useful life estimation: Theoretical and technological development in battery degradation modelling
+https://www.sciencedirect.com/science/article/pii/S1364032121011692
+Soft load shedding based demand control of residential consumers
+https://www.mdpi.com/2079-9292/11/4/615
+Poster: Optimization of the Battery Swapping Station to power up mobile and stationary loads
+https://web.lums.edu.pk/~eig/pdf/3538637.3538753.pdf
+Impact Of Missing Data Imputation On The Fairness And Accuracy Of Graph Node Classifiers
+https://ieeexplore.ieee.org/abstract/document/10020694/
+Efficient Data Analytics on Augmented Similarity Triplets
+https://ieeexplore.ieee.org/abstract/document/10021104/
+LV Harmonic Analysis of Single-Phase Rooftop Solar PV Systems with Non-Linear Loads
+https://ieeexplore.ieee.org/abstract/document/9772022/
+System size and loss of power supply probability reduction through Peer-to-Peer Power Sharing in DC Microgrids
+https://ieeexplore.ieee.org/abstract/document/9772023/
+Preprocessing of spent lithium-ion batteries for recycling: Need, methods, and trends
+https://www.sciencedirect.com/science/article/pii/S136403212200692X
+Optimized power dispatch for smart building (s) and electric vehicles with V2X operation
+https://www.sciencedirect.com/science/article/pii/S2352484722016651
+Improving Grid Resiliency with Active Management of Electric Vehicles Charging in Low Voltage Distribution Network
+https://ieeexplore.ieee.org/abstract/document/10863724
+Design and optimization of electric vehicle battery swapping stations with integrated storage for enhanced efficiency
+https://www.sciencedirect.com/science/article/pii/S2352152X25019243
+Reliability and Economic Assessment of Integrated Distributed Hybrid Generation and Battery Storage for Base Transceiver Stations in Intermittent Utility Grids
+https://ieeexplore.ieee.org/abstract/document/11078267
+Association between recurrent acute anterior uveitis and ankylosing spondylitis: Recurrent acute anterior uveitis and ankylosing spondylitis
+https://jrmi.pk/article/view/650
+Microbial incidence in acute pharyngitis using throat swab analysis
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jDcSbQYAAAAJ&sortby=pubdate&citation_for_view=jDcSbQYAAAAJ:NJ774b8OgUMC
+Identification and quantification of degradation modes in lithium-ion battery cells under dynamic load conditions using equivalent circuit and physics-based models
+https://www.sciencedirect.com/science/article/pii/S0378775325001107
+Tri-template molecularly imprinted organically modified silane as selective sorbent for simultaneous determination of carbofuran, difenoconazole, and 2-methyl-4-chlorophenoxyacetic acid from agricultural runoff
+https://www.tandfonline.com/doi/full/10.1080/03067319.2025.2474485
+Unreal Estate: The Black Money Blocking Sustainable Growth in Pakistan
+https://lawresearchreview.com/index.php/Journal/article/view/128/108
+2025
+2024
+2023
+2022

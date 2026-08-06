@@ -1,0 +1,6 @@
+*This feature is currently available for selected cities only.
+Total Bill
+Billing Month
+Amount Paid
+Sanctioned Load
+Tariff
